@@ -14,6 +14,8 @@ A curated list of .NET related software.
 
 * [Coyote](https://github.com/microsoft/coyote/) - "Coyote is a library and tool for testing concurrent C# code and deterministically reproducing bugs."
 
+* [Dapr SDK for .NET](https://github.com/dapr/dotnet-sdk) - "Dapr (Distributed Application Runtime) SDK for .NET"
+
 * [Data API builder for Azure Databases](https://github.com/Azure/data-api-builder) - "Data API builder for Azure Databases provides modern REST and GraphQL endpoints to your Azure Databases."
 
 * [dotnet adr](https://github.com/endjin/dotnet-adr) - "A cross platform .NET Global Tool for creating and managing Architectural Decision Records (ADRs)."

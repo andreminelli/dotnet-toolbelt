@@ -27,6 +27,8 @@ Adding `.Dump()` extension methods to Console Applications, similar to LinqPad's
 
 * [Dunet](https://github.com/domn1995/dunet) - "C# discriminated union source generator."
 
+* [Durable Task Framework](https://github.com/Azure/durabletask) - "Durable Task Framework allows users to write long running persistent workflows in C# using the async/await capabilities."
+
 * [FastEndpoints](https://github.com/FastEndpoints/FastEndpoints) - "A light-weight REST API development framework for ASP.NET 6 and newer."
 
 * [FluentMigrator](https://github.com/fluentmigrator/fluentmigrator) - "Fluent migrations framework for .NET."

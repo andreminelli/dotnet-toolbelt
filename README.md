@@ -4,6 +4,8 @@ A curated list of .NET related software.
 
 # Libraries
 
+* [Akka.NET](https://github.com/akkadotnet/akka.net) - "Canonical actor model implementation for .NET with local + distributed actors in C# and F#."
+
 * [AngleSharp](https://github.com/AngleSharp/AngleSharp) - "The ultimate angle brackets parser library parsing HTML5, MathML, SVG and CSS to construct a DOM based on the official W3C specifications."
 
 * [Avatar](https://github.com/devlooped/avatar) - "A modern compile-time generated interception/proxy library." (sadly is now archived/read-only, but it is a very interesting idea)
@@ -12,6 +14,8 @@ A curated list of .NET related software.
 
 * [Coyote](https://github.com/microsoft/coyote/) - "Coyote is a library and tool for testing concurrent C# code and deterministically reproducing bugs."
 
+* [Data API builder for Azure Databases](https://github.com/Azure/data-api-builder) - "Data API builder for Azure Databases provides modern REST and GraphQL endpoints to your Azure Databases."
+
 * [dotnet adr](https://github.com/endjin/dotnet-adr) - "A cross platform .NET Global Tool for creating and managing Architectural Decision Records (ADRs)."
 
 * [dotnet-affected](https://github.com/leonardochaia/dotnet-affected) - ".NET tool for determining which projects are affected by a set of changes. Useful for large projects or monorepos."
@@ -19,7 +23,7 @@ A curated list of .NET related software.
 * [Dumpify](https://github.com/MoaidHathot/Dumpify) - "About
 Adding `.Dump()` extension methods to Console Applications, similar to LinqPad's."
 
-* [Dunet](https://github.com/domn1995/dunet) - "C# discriminated union source generator"
+* [Dunet](https://github.com/domn1995/dunet) - "C# discriminated union source generator."
 
 * [FastEndpoints](https://github.com/FastEndpoints/FastEndpoints) - "A light-weight REST API development framework for ASP.NET 6 and newer."
 
@@ -40,9 +44,13 @@ Adding `.Dump()` extension methods to Console Applications, similar to LinqPad's
 
 * [NSubstitute](https://github.com/nsubstitute/NSubstitute) - "A friendly substitute for .NET mocking libraries."
 
+* [Orleans](https://github.com/dotnet/orleans) - "Cloud Native application framework for .NET."
+
+* [Proto.Actor](https://github.com/asynkron/protoactor-dotnet) - "Proto Actor - Ultra fast distributed actors for Go, C# and Java/Kotlin."
+
 * [Reqnroll](https://github.com/reqnroll/Reqnroll) - "Open-source Cucumber-style BDD test automation framework for .NET." (Specflow rebirthed)
 
-* [Respawn](https://github.com/jbogard/Respawn) - "Intelligent database cleaner for integration tests"
+* [Respawn](https://github.com/jbogard/Respawn) - "Intelligent database cleaner for integration tests."
 
 * [Roslynator](https://github.com/dotnet/roslynator) - "Roslynator is a set of code analysis tools for C#, powered by Roslyn."
 
@@ -52,5 +60,5 @@ Adding `.Dump()` extension methods to Console Applications, similar to LinqPad's
 
 * [Testcontainers](https://github.com/testcontainers/testcontainers-dotnet) - "A library to support tests with throwaway instances of Docker containers for all compatible .NET Standard versions."
 
-* [Vogen](https://github.com/SteveDunn/Vogen) - "A semi-opinionated library which is a source generator and a code analyser. It Source generates Value Objects"
+* [Vogen](https://github.com/SteveDunn/Vogen) - "A semi-opinionated library which is a source generator and a code analyser. It Source generates Value Objects."
 

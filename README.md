@@ -6,7 +6,9 @@ A curated list of .NET related software.
 
 * [AngleSharp](https://github.com/AngleSharp/AngleSharp) - "The ultimate angle brackets parser library parsing HTML5, MathML, SVG and CSS to construct a DOM based on the official W3C specifications."
 
-* [Avatar](https://github.com/devlooped/avatar) - "A modern compile-time generated interception/proxy library" (sadly is now archived/read-only, but it is a very interesting idea)
+* [Avatar](https://github.com/devlooped/avatar) - "A modern compile-time generated interception/proxy library." (sadly is now archived/read-only, but it is a very interesting idea)
+
+* [CAP](https://github.com/dotnetcore/CAP) - "Distributed transaction solution in micro-service base on eventually consistency, also an eventbus with Outbox pattern."
 
 * [Coyote](https://github.com/microsoft/coyote/) - "Coyote is a library and tool for testing concurrent C# code and deterministically reproducing bugs."
 
@@ -21,12 +23,16 @@ Adding `.Dump()` extension methods to Console Applications, similar to LinqPad's
 
 * [FastEndpoints](https://github.com/FastEndpoints/FastEndpoints) - "A light-weight REST API development framework for ASP.NET 6 and newer."
 
+* [FluentMigrator](https://github.com/fluentmigrator/fluentmigrator) - "Fluent migrations framework for .NET."
+
 * [GuardClauses](https://github.com/ardalis/GuardClauses) - "A simple package with guard clause extensions."
 
 * [Mapperly](https://github.com/riok/mapperly) - "A .NET source generator for generating object mappings. No runtime reflection."
 
 * [Mediator](https://github.com/martinothamar/Mediator) - "A high performance implementation of Mediator pattern in .NET using source generators."
 (based on MediatR contracts)
+
+* [Mongo.Migration](https://github.com/SRoddis/Mongo.Migration) - "On-the-fly migrations with MongoDB C# Driver."
 
 * [NetArchTest](https://github.com/BenMorris/NetArchTest) - "A fluent API for .Net that can enforce architectural rules in unit tests."
 
@@ -36,11 +42,15 @@ Adding `.Dump()` extension methods to Console Applications, similar to LinqPad's
 
 * [Reqnroll](https://github.com/reqnroll/Reqnroll) - "Open-source Cucumber-style BDD test automation framework for .NET." (Specflow rebirthed)
 
+* [Respawn](https://github.com/jbogard/Respawn) - "Intelligent database cleaner for integration tests"
+
 * [Roslynator](https://github.com/dotnet/roslynator) - "Roslynator is a set of code analysis tools for C#, powered by Roslyn."
 
 * [Shouldly](https://github.com/shouldly/shouldly) - "Should testing for .NET—the way assertions should be!"
 
 * [Spectre.Console](https://github.com/spectreconsole/spectre.console) - "A .NET library that makes it easier to create beautiful console applications."
+
+* [Testcontainers](https://github.com/testcontainers/testcontainers-dotnet) - "A library to support tests with throwaway instances of Docker containers for all compatible .NET Standard versions."
 
 * [Vogen](https://github.com/SteveDunn/Vogen) - "A semi-opinionated library which is a source generator and a code analyser. It Source generates Value Objects"
 

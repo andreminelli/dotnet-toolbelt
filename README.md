@@ -40,6 +40,10 @@ Adding `.Dump()` extension methods to Console Applications, similar to LinqPad's
 * [Mediator](https://github.com/martinothamar/Mediator) - "A high performance implementation of Mediator pattern in .NET using source generators."
 (based on MediatR contracts)
 
+* [Meziantou.Analyzer](https://github.com/meziantou/Meziantou.Analyzer) - "A Roslyn analyzer to enforce some good practices in C#."
+
+* [Meziantou.Xunit.ParallelTestFramework](https://github.com/meziantou/Meziantou.Xunit.ParallelTestFramework) - "Run xUnit test cases in parallel."
+
 * [Mongo.Migration](https://github.com/SRoddis/Mongo.Migration) - "On-the-fly migrations with MongoDB C# Driver."
 
 * [NetArchTest](https://github.com/BenMorris/NetArchTest) - "A fluent API for .Net that can enforce architectural rules in unit tests."

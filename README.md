@@ -64,6 +64,8 @@ Adding `.Dump()` extension methods to Console Applications, similar to LinqPad's
 
 * [Shouldly](https://github.com/shouldly/shouldly) - "Should testing for .NET—the way assertions should be!"
 
+* [Specification](https://github.com/ardalis/specification) - "Base class with tests for adding specifications to a DDD model"
+
 * [Spectre.Console](https://github.com/spectreconsole/spectre.console) - "A .NET library that makes it easier to create beautiful console applications."
 
 * [Testcontainers](https://github.com/testcontainers/testcontainers-dotnet) - "A library to support tests with throwaway instances of Docker containers for all compatible .NET Standard versions."

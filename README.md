@@ -35,6 +35,8 @@ Adding `.Dump()` extension methods to Console Applications, similar to LinqPad's
 
 * [GuardClauses](https://github.com/ardalis/GuardClauses) - "A simple package with guard clause extensions."
 
+* [HttpClientTestExtensions](https://github.com/ardalis/HttpClientTestExtensions) - "Extensions for testing HTTP endpoints and deserializing the results. Currently works with XUnit"
+
 * [InterpolatedSql](https://github.com/Drizin/InterpolatedSql) - "Sql Builder using Interpolated Strings"
 
 * [Mapperly](https://github.com/riok/mapperly) - "A .NET source generator for generating object mappings. No runtime reflection."

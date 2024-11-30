@@ -68,6 +68,8 @@ Adding `.Dump()` extension methods to Console Applications, similar to LinqPad's
 
 * [Shouldly](https://github.com/shouldly/shouldly) - "Should testing for .NET—the way assertions should be!"
 
+* [SmartComponents](https://github.com/dotnet/smartcomponents) - "Sample intelligent app features provided as reusable .NET components" (how to add genuinely useful AI-powered features to your .NET apps quickly, easily, and without risking wasted effort)
+
 * [Specification](https://github.com/ardalis/specification) - "Base class with tests for adding specifications to a DDD model"
 
 * [Spectre.Console](https://github.com/spectreconsole/spectre.console) - "A .NET library that makes it easier to create beautiful console applications."

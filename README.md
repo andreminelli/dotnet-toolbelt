@@ -35,6 +35,8 @@ Adding `.Dump()` extension methods to Console Applications, similar to LinqPad's
 
 * [GuardClauses](https://github.com/ardalis/GuardClauses) - "A simple package with guard clause extensions."
 
+* [InterpolatedSql](https://github.com/Drizin/InterpolatedSql) - "Sql Builder using Interpolated Strings"
+
 * [Mapperly](https://github.com/riok/mapperly) - "A .NET source generator for generating object mappings. No runtime reflection."
 
 * [Mediator](https://github.com/martinothamar/Mediator) - "A high performance implementation of Mediator pattern in .NET using source generators."
@@ -67,6 +69,8 @@ Adding `.Dump()` extension methods to Console Applications, similar to LinqPad's
 * [Specification](https://github.com/ardalis/specification) - "Base class with tests for adding specifications to a DDD model"
 
 * [Spectre.Console](https://github.com/spectreconsole/spectre.console) - "A .NET library that makes it easier to create beautiful console applications."
+
+* [SqlKata](https://github.com/sqlkata/querybuilder) - "SQL query builder, written in c#, helps you build complex queries easily, supports SqlServer, MySql, PostgreSql, Oracle, Sqlite and Firebird"
 
 * [Testcontainers](https://github.com/testcontainers/testcontainers-dotnet) - "A library to support tests with throwaway instances of Docker containers for all compatible .NET Standard versions."
 

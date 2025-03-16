@@ -29,9 +29,13 @@ Adding `.Dump()` extension methods to Console Applications, similar to LinqPad's
 
 * [Durable Task Framework](https://github.com/Azure/durabletask) - "Durable Task Framework allows users to write long running persistent workflows in C# using the async/await capabilities."
 
+* [Elsa Workflows](https://github.com/elsa-workflows/elsa-core) - "A .NET workflows library."
+
 * [FastEndpoints](https://github.com/FastEndpoints/FastEndpoints) - "A light-weight REST API development framework for ASP.NET 6 and newer."
 
 * [FluentMigrator](https://github.com/fluentmigrator/fluentmigrator) - "Fluent migrations framework for .NET."
+
+* [FusionCache](https://github.com/ZiggyCreatures/FusionCache) - "FusionCache is an easy to use, fast and robust hybrid cache with advanced resiliency features."
 
 * [GuardClauses](https://github.com/ardalis/GuardClauses) - "A simple package with guard clause extensions."
 
@@ -45,6 +49,8 @@ Adding `.Dump()` extension methods to Console Applications, similar to LinqPad's
 (based on MediatR contracts)
 
 * [Meziantou.Analyzer](https://github.com/meziantou/Meziantou.Analyzer) - "A Roslyn analyzer to enforce some good practices in C#."
+
+* [Meziantou.Framework.HttpClientMock](https://www.nuget.org/packages/Meziantou.Framework.HttpClientMock#readme-body-tab) - "The HttpClientMock class allows you to mock an HttpClient instance."
 
 * [Meziantou.Xunit.ParallelTestFramework](https://github.com/meziantou/Meziantou.Xunit.ParallelTestFramework) - "Run xUnit test cases in parallel."
 

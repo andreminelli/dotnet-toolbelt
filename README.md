@@ -43,6 +43,8 @@ Adding `.Dump()` extension methods to Console Applications, similar to LinqPad's
 
 * [InterpolatedSql](https://github.com/Drizin/InterpolatedSql) - "Sql Builder using Interpolated Strings"
 
+* [Kernel Memory](https://github.com/microsoft/kernel-memory) - "RAG architecture: index and query any data using LLM and natural language, track sources, show citations, asynchronous memory patterns."
+
 * [Mapperly](https://github.com/riok/mapperly) - "A .NET source generator for generating object mappings. No runtime reflection."
 
 * [Mediator](https://github.com/martinothamar/Mediator) - "A high performance implementation of Mediator pattern in .NET using source generators."

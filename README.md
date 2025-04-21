@@ -10,6 +10,8 @@ A curated list of .NET related software.
 
 * [Avatar](https://github.com/devlooped/avatar) - "A modern compile-time generated interception/proxy library." (sadly is now archived/read-only, but it is a very interesting idea)
 
+* [BotSharp](https://github.com/SciSharp/BotSharp) - "AI Multi-Agent Framework in .NET."
+
 * [CAP](https://github.com/dotnetcore/CAP) - "Distributed transaction solution in micro-service base on eventually consistency, also an eventbus with Outbox pattern."
 
 * [Coyote](https://github.com/microsoft/coyote/) - "Coyote is a library and tool for testing concurrent C# code and deterministically reproducing bugs."
@@ -28,6 +30,8 @@ Adding `.Dump()` extension methods to Console Applications, similar to LinqPad's
 * [Dunet](https://github.com/domn1995/dunet) - "C# discriminated union source generator."
 
 * [Durable Task Framework](https://github.com/Azure/durabletask) - "Durable Task Framework allows users to write long running persistent workflows in C# using the async/await capabilities."
+
+* [EasyCompressor](https://github.com/mjebrahimi/EasyCompressor) - "An Easy-to-Use and Optimized compression library for .NET that unified several compression algorithms including LZ4, Snappy, Zstd, LZMA, Brotli, GZip, ZLib, and Deflate. This library aids in Improving Performance by Reducing Memory Usage and Bandwidth Usage. Along with a greate Performance Benchmark between different compression algorithms."
 
 * [Elsa Workflows](https://github.com/elsa-workflows/elsa-core) - "A .NET workflows library."
 

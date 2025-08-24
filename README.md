@@ -35,6 +35,8 @@ Adding `.Dump()` extension methods to Console Applications, similar to LinqPad's
 
 * [Elsa Workflows](https://github.com/elsa-workflows/elsa-core) - "A .NET workflows library."
 
+* [Facet](https://github.com/Tim-Maes/Facet) - "Source generator for creating compile-time facets of your models, features mapping and LINQ projections, zero runtime overhead."
+
 * [FastEndpoints](https://github.com/FastEndpoints/FastEndpoints) - "A light-weight REST API development framework for ASP.NET 6 and newer."
 
 * [FluentMigrator](https://github.com/fluentmigrator/fluentmigrator) - "Fluent migrations framework for .NET."
@@ -72,6 +74,8 @@ Adding `.Dump()` extension methods to Console Applications, similar to LinqPad's
 
 * [Proto.Actor](https://github.com/asynkron/protoactor-dotnet) - "Proto Actor - Ultra fast distributed actors for Go, C# and Java/Kotlin."
 
+* [Rejigs](https://github.com/omarzawahry/Rejigs) - "Rejigs is a .NET library that provides a fluent interface for building regular expressions. It's designed to make regex patterns more readable and maintainable by allowing developers to construct them using method chaining rather than writing raw regex syntax."
+
 * [Reqnroll](https://github.com/reqnroll/Reqnroll) - "Open-source Cucumber-style BDD test automation framework for .NET." (Specflow rebirthed)
 
 * [Respawn](https://github.com/jbogard/Respawn) - "Intelligent database cleaner for integration tests."
@@ -89,6 +93,8 @@ Adding `.Dump()` extension methods to Console Applications, similar to LinqPad's
 * [SqlKata](https://github.com/sqlkata/querybuilder) - "SQL query builder, written in c#, helps you build complex queries easily, supports SqlServer, MySql, PostgreSql, Oracle, Sqlite and Firebird"
 
 * [Testcontainers](https://github.com/testcontainers/testcontainers-dotnet) - "A library to support tests with throwaway instances of Docker containers for all compatible .NET Standard versions."
+
+* [TickerQ](https://github.com/Arcenox-co/TickerQ) - "TickerQ is a fast, reflection-free background task scheduler for .NET — built with source generators, EF Core integration, cron + time-based execution, and a real-time dashboard."
 
 * [Vogen](https://github.com/SteveDunn/Vogen) - "A semi-opinionated library which is a source generator and a code analyser. It Source generates Value Objects."
 

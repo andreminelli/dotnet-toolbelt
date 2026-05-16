@@ -2,6 +2,8 @@
 
 A curated list of .NET related software.
 
+* [ArchUnitNET](https://github.com/TNG/ArchUnitNET) - "A C# architecture test library to specify and assert architecture rules in C# for automated testing."
+
 * [Aserto SDK](https://github.com/aserto-dev/aserto-dotnet) - .NET Middleware library for [Aserto](https://docs.aserto.com/docs) (a cloud-native authorization platform).
 
 * [Akka.NET](https://github.com/akkadotnet/akka.net) - "Canonical actor model implementation for .NET with local + distributed actors in C# and F#."
@@ -32,6 +34,8 @@ Adding `.Dump()` extension methods to Console Applications, similar to LinqPad's
 * [Durable Task Framework](https://github.com/Azure/durabletask) - "Durable Task Framework allows users to write long running persistent workflows in C# using the async/await capabilities."
 
 * [EasyCompressor](https://github.com/mjebrahimi/EasyCompressor) - "An Easy-to-Use and Optimized compression library for .NET that unified several compression algorithms including LZ4, Snappy, Zstd, LZMA, Brotli, GZip, ZLib, and Deflate. This library aids in Improving Performance by Reducing Memory Usage and Bandwidth Usage. Along with a greate Performance Benchmark between different compression algorithms."
+
+* [EasyNetQ](https://github.com/EasyNetQ/EasyNetQ) - "An easy to use .NET API for RabbitMQ"
 
 * [Elsa Workflows](https://github.com/elsa-workflows/elsa-core) - "A .NET workflows library."
 
@@ -64,8 +68,6 @@ Adding `.Dump()` extension methods to Console Applications, similar to LinqPad's
 
 * [Mongo.Migration](https://github.com/SRoddis/Mongo.Migration) - "On-the-fly migrations with MongoDB C# Driver."
 
-* [NetArchTest](https://github.com/BenMorris/NetArchTest) - "A fluent API for .Net that can enforce architectural rules in unit tests."
-
 * [Neuroglia AsyncAPI](https://github.com/neuroglia-io/asyncapi) - "A .NET SDK for the Async API specification."
 
 * [NSubstitute](https://github.com/nsubstitute/NSubstitute) - "A friendly substitute for .NET mocking libraries."
@@ -73,6 +75,10 @@ Adding `.Dump()` extension methods to Console Applications, similar to LinqPad's
 * [Orleans](https://github.com/dotnet/orleans) - "Cloud Native application framework for .NET."
 
 * [Proto.Actor](https://github.com/asynkron/protoactor-dotnet) - "Proto Actor - Ultra fast distributed actors for Go, C# and Java/Kotlin."
+
+* [RazorConsole](https://github.com/RazorConsole/RazorConsole) - "Build agentic TUI applications with .NET Razor and Spectre.Console"
+
+* [redb.Route](https://github.com/redbase-app/redb-route) - "redb.Route is the .NET equivalent of Apache Camel — a fluent C# DSL that connects Kafka, RabbitMQ, Redis, SQL, HTTP, gRPC, SFTP, MQTT, S3, and more through From → Process → To pipelines. No XML, no message-bus lock-in, no per-endpoint license fees."
 
 * [Rejigs](https://github.com/omarzawahry/Rejigs) - "Rejigs is a .NET library that provides a fluent interface for building regular expressions. It's designed to make regex patterns more readable and maintainable by allowing developers to construct them using method chaining rather than writing raw regex syntax."
 

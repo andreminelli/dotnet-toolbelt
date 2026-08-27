@@ -66,6 +66,8 @@ Adding `.Dump()` extension methods to Console Applications, similar to LinqPad's
 
 * [Meziantou.Xunit.ParallelTestFramework](https://github.com/meziantou/Meziantou.Xunit.ParallelTestFramework) - "Run xUnit test cases in parallel."
 
+* [MuchAdo](https://github.com/MuchAdoNet/MuchAdo) - "A fluent, powerful, efficient library for querying ADO.NET databases."
+
 * [Mongo.Migration](https://github.com/SRoddis/Mongo.Migration) - "On-the-fly migrations with MongoDB C# Driver."
 
 * [Neuroglia AsyncAPI](https://github.com/neuroglia-io/asyncapi) - "A .NET SDK for the Async API specification."
